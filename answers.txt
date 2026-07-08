@@ -1,0 +1,14 @@
+Provide designations for sort1, sort2, and sort3.
+Explain your rationale for each designation.
+
+sort1 uses: bubble sort
+How do you know?
+sort1 is exceptionally fast on sorted lists, achieving nearly linear time, but its runtime scales quadratically on reversed datasets due to the extensive number of adjacent swaps required.
+
+sort2 uses: merge sort
+How do you know?
+sort2 handles the largest datasets with the least amount of time scaling. Its divide-and-conquer approach allows it to maintain an O(n log n) efficiency, outperforming the others on randomized and reversed lists.
+
+sort3 uses: selection sort
+How do you know?
+sort3 takes a consistent amount of time across sorted, randomized, and reversed inputs because it always scans the entire remaining unsorted array to find the minimum element, showing O(n^2) behavior in all cases.
