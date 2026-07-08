@@ -1,4 +1,0 @@
-10 HTML Tags Used: nav, a, div, h1, p, hr, img, script, h2, ul, li, form, label, input, button.
-5 CSS Properties Used: background-color, font-family, border-radius, color, font-weight, box-shadow, transition, transform.
-Bootstrap Integration: Used Bootstrap 4 navbar, jumbotron, containers, grid grid system (row/col), cards, list-groups, forms, and custom styled buttons.
-JavaScript Integration: Implemented a personalized greeting using an alert pop-up message triggered on submitting the contact form.
